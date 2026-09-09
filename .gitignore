@@ -1,0 +1,55 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build folders
+build/
+bin/
+obj/
+out/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Visual Studio Code (Workspace settings)
+.vscode/
+
+# Visual Studio (if using MSVC)
+.vs/
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+
+# OS generated files
+.DS_Store
+Thumbs.db
